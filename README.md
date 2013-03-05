@@ -1,4 +1,4 @@
-#### Script which adds users to sudoers
+### Script which adds users to sudoers on linux machine
 
 Usage:
 
